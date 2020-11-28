@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n,k,i,j,count=0,flag;
-    char s[n],dum[k];
+    char s[50],dum[50];
     cout<<"Enter the values of n and k"<<endl;
     cin>>n>>k;
     cout<<"Enter the string"<<endl;
